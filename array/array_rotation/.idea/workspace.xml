@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8c76e4f-7306-4a1c-b0e2-bb3165558890" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/RotateByOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RotationTempArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayRotationReversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BlockSwapRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CalcualteRotationINdexsum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindPairWithSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Findelement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OptemisedLeftRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QuickLeftRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RotationCount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/array_rotation/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/array_rotation/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,30 +23,31 @@
     <session id="1846854866">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.36" value="1" />
           <entry key="project.open.time.45" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="4" />
+          <entry key="java" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="4" />
+          <entry key="JAVA" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="793" />
+          <entry key="java" value="3958" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="793" />
+          <entry key="JAVA" value="3958" />
         </counts>
       </usages-collector>
     </session>
@@ -50,10 +55,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/RotateByOne.java">
+        <entry file="file://$PROJECT_DIR$/src/OptemisedLeftRotation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+            <state relative-caret-position="225">
+              <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#186#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -76,6 +84,14 @@
         <option value="$PROJECT_DIR$/src/test.java" />
         <option value="$PROJECT_DIR$/src/RotationTempArray.java" />
         <option value="$PROJECT_DIR$/src/RotateByOne.java" />
+        <option value="$PROJECT_DIR$/src/ArrayRotationReversal.java" />
+        <option value="$PROJECT_DIR$/src/BlockSwapRotation.java" />
+        <option value="$PROJECT_DIR$/src/Findelement.java" />
+        <option value="$PROJECT_DIR$/src/FindPairWithSum.java" />
+        <option value="$PROJECT_DIR$/src/CalcualteRotationINdexsum.java" />
+        <option value="$PROJECT_DIR$/src/RotationCount.java" />
+        <option value="$PROJECT_DIR$/src/QuickLeftRotation.java" />
+        <option value="$PROJECT_DIR$/src/OptemisedLeftRotation.java" />
       </list>
     </option>
   </component>
@@ -92,6 +108,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -108,13 +127,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552887441947" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553073375674" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -129,7 +145,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RotateByOne">
+  <component name="RunManager" selected="Application.QuickLeftRotation">
+    <configuration name="CalcualteRotationINdexsum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalcualteRotationINdexsum" />
+      <module name="array_rotation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindPairWithSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindPairWithSum" />
+      <module name="array_rotation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickLeftRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuickLeftRotation" />
+      <module name="array_rotation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RotateByOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RotateByOne" />
       <module name="array_rotation" />
@@ -137,30 +174,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotationTempArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RotationTempArray" />
-      <module name="array_rotation" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
+    <configuration name="RotationCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RotationCount" />
       <module name="array_rotation" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.test" />
-      <item itemvalue="Application.RotationTempArray" />
+      <item itemvalue="Application.FindPairWithSum" />
+      <item itemvalue="Application.CalcualteRotationINdexsum" />
+      <item itemvalue="Application.RotationCount" />
+      <item itemvalue="Application.QuickLeftRotation" />
       <item itemvalue="Application.RotateByOne" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuickLeftRotation" />
         <item itemvalue="Application.RotateByOne" />
-        <item itemvalue="Application.RotationTempArray" />
-        <item itemvalue="Application.test" />
+        <item itemvalue="Application.RotationCount" />
+        <item itemvalue="Application.CalcualteRotationINdexsum" />
+        <item itemvalue="Application.FindPairWithSum" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +221,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="927" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25767368" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -218,6 +252,17 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BlockSwapRotation.java</url>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -235,8 +280,67 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RotateByOne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        <state relative-caret-position="435">
+          <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="34" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BlockSwapRotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Findelement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FindPairWithSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CalcualteRotationINdexsum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RotationCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayRotationReversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="37" column="5" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="37" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QuickLeftRotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="53" column="9" selection-start-line="53" selection-start-column="9" selection-end-line="54" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OptemisedLeftRotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#186#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

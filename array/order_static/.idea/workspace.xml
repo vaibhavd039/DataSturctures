@@ -2,20 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="582afe4e-fbfb-4e69-bc06-3cb6d7d7ea8a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../array_arrange/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../array_arrange/src/ElementAtIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../array_rotation/src/ArrayRotationReversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../array_rotation/src/BlockSwapRotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../array_rotation/src/CalcualteRotationINdexsum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../array_rotation/src/FindPairWithSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../array_rotation/src/Findelement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../array_rotation/src/OptemisedLeftRotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../array_rotation/src/QuickLeftRotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../array_rotation/src/RotationCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KthElementRandomPartition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KthQuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../array_rotation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../array_rotation/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KthElement2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KthSmallersQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KthSumContinuousSubarray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,53 +15,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-716462830">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="952" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="952" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/KthQuickSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="421">
-              <caret line="52" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/KthElementRandomPartition.java">
+        <entry file="file://$PROJECT_DIR$/src/KthSumContinuousSubarray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="945">
-              <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+            <state relative-caret-position="345">
+              <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -92,8 +43,17 @@
       <list>
         <option value="$PROJECT_DIR$/src/KthQuickSort.java" />
         <option value="$PROJECT_DIR$/src/KthElementRandomPartition.java" />
+        <option value="$PROJECT_DIR$/src/KthElement2DArray.java" />
+        <option value="$PROJECT_DIR$/src/KthSmallersQueue.java" />
+        <option value="$PROJECT_DIR$/src/KthSumContinuousSubarray.java" />
       </list>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
@@ -107,6 +67,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -123,12 +84,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554182044463" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554700382816" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -142,7 +101,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.KthElementRandomPartition">
+  <component name="RunManager" selected="Application.KthSumContinuousSubarray">
     <configuration name="KthElementRandomPartition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KthElementRandomPartition" />
       <module name="order_static" />
@@ -157,12 +116,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="KthSmallersQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KthSmallersQueue" />
+      <module name="order_static" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KthSumContinuousSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KthSumContinuousSubarray" />
+      <module name="order_static" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.KthQuickSort" />
       <item itemvalue="Application.KthElementRandomPartition" />
+      <item itemvalue="Application.KthQuickSort" />
+      <item itemvalue="Application.KthSmallersQueue" />
+      <item itemvalue="Application.KthSumContinuousSubarray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KthSumContinuousSubarray" />
+        <item itemvalue="Application.KthSmallersQueue" />
         <item itemvalue="Application.KthElementRandomPartition" />
         <item itemvalue="Application.KthQuickSort" />
       </list>
@@ -190,51 +167,72 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="925" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26171243" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32962963" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32962963" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23209876" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32962963" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Maven" order="8" weight="0.32956383" />
     </layout>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/KthQuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="52" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="52" />
+        <state relative-caret-position="780">
+          <caret line="52" selection-start-line="7" selection-start-column="2" selection-end-line="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/KthElementRandomPartition.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="945">
-          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/KthSmallersQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+          <folding>
+            <element signature="e#376#385#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/KthElement2DArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/KthSumContinuousSubarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
         </state>
       </provider>
     </entry>

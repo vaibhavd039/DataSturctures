@@ -2,36 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3edf7698-7ee6-44e2-8d3d-196eab198f19" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AbsoluteDiffrenece.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AlternativeSorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CountInversions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MergeNSizeArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortNElementArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortNearlySorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortTwoKindArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WaveSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClosestSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinimumSwaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShortestUnorderedSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Union_Intersection_unsorted.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../spring/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../spring/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../spring/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../spring/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../spring/.idea/sbt.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../spring/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../spring/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../spring/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../spring/spring.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../spring/src/main/java/ApplicationConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../spring/src/main/java/ApplicationInitializer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../spring/src/main/java/BaseResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../spring/src/main/java/PaymentController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../spring/src/main/java/PaymentRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../spring/src/main/java/test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../spring/target/classes/ApplicationConfiguration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../spring/target/classes/ApplicationInitializer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../spring/target/classes/BaseResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../spring/target/classes/PaymentController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../spring/target/classes/PaymentRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../spring/target/classes/test.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,7 +16,35 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ShortestUnorderedSubarray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MinimumSwaps.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="25" selection-start-column="25" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Union_Intersection_unsorted.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -64,6 +67,9 @@
         <option value="$PROJECT_DIR$/src/SortNElementArray.java" />
         <option value="$PROJECT_DIR$/src/SortTwoKindArray.java" />
         <option value="$PROJECT_DIR$/src/CountInversions.java" />
+        <option value="$PROJECT_DIR$/src/ClosestSum.java" />
+        <option value="$PROJECT_DIR$/src/ShortestUnorderedSubarray.java" />
+        <option value="$PROJECT_DIR$/src/Union_Intersection_unsorted.java" />
       </list>
     </option>
   </component>
@@ -99,7 +105,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558503737564" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558940366776" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -113,7 +119,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CountInversions">
+  <component name="RunManager" selected="Application.ShortestUnorderedSubarray">
+    <configuration name="ClosestSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClosestSum" />
+      <module name="sorting" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CountInversions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CountInversions" />
       <module name="sorting" />
@@ -121,8 +134,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeNSizeArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MergeNSizeArray" />
+    <configuration name="ShortestUnorderedSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShortestUnorderedSubarray" />
       <module name="sorting" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -142,20 +155,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WaveSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WaveSort" />
-      <module name="sorting" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShortestUnorderedSubarray" />
+        <item itemvalue="Application.ClosestSum" />
         <item itemvalue="Application.CountInversions" />
         <item itemvalue="Application.SortTwoKindArray" />
         <item itemvalue="Application.SortNElementArray" />
-        <item itemvalue="Application.MergeNSizeArray" />
-        <item itemvalue="Application.WaveSort" />
       </list>
     </recent_temporary>
   </component>
@@ -181,8 +187,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="925" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25767368" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26171243" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -272,6 +279,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClosestSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-119">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ShortestUnorderedSubarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MinimumSwaps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Union_Intersection_unsorted.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
         </state>
       </provider>
     </entry>

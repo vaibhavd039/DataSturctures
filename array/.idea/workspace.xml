@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92c8efe7-5f1c-4472-9bf0-424b6a9a0cdd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Optimization/src/GetDesiredArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Optimization/src/JumpToEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Optimization/src/MaxIncresingSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Optimization/src/Maximumprofit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Optimization/src/MergeInPelindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Optimization/src/MinDistanace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Optimization/src/SubArrayMaxAvg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Optimization/src/SubarrayMinAvg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Optimization/src/SumContinuousArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order_static/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order_static/src/KthElement2DArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order_static/src/KthSmallersQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order_static/src/KthSumContinuousSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring/src/main/java/ApplicationConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring/src/main/java/ApplicationInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring/src/main/java/BaseResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring/src/main/java/PaymentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring/src/main/java/PaymentRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring/src/main/java/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order_static/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order_static/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8cfd9d37-ec1d-4b9d-8538-0463f2f0b573" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,20 +13,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="925" />
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -64,40 +34,29 @@
       </list>
     </option>
   </component>
-  <component name="SbtLocalSettings">
-    <option name="projectSyncType">
-      <map>
-        <entry key="$USER_HOME$/wrsinc/datacert" value="PREVIEW" />
-      </map>
-    </option>
-  </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="92c8efe7-5f1c-4472-9bf0-424b6a9a0cdd" name="Default Changelist" comment="" />
-      <created>1557985157632</created>
+      <changelist id="8cfd9d37-ec1d-4b9d-8538-0463f2f0b573" name="Default Changelist" comment="" />
+      <created>1568045105399</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1557985157632</updated>
+      <updated>1568045105399</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="925" extended-state="0" />
+    <frame x="10" y="20" width="1346" height="688" extended-state="0" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="SBT Console" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -114,21 +73,5 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

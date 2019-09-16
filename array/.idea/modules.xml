@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/array.iml" filepath="$PROJECT_DIR$/array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Optimization/Optimization.iml" filepath="$PROJECT_DIR$/Optimization/Optimization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array_arrange/array_arrange.iml" filepath="$PROJECT_DIR$/array_arrange/array_arrange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array_rotation/array_rotation.iml" filepath="$PROJECT_DIR$/array_rotation/array_rotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order_static/order_static.iml" filepath="$PROJECT_DIR$/order_static/order_static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sorting/sorting.iml" filepath="$PROJECT_DIR$/sorting/sorting.iml" />
     </modules>
   </component>
 </project>
